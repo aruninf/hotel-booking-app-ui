@@ -1,0 +1,25 @@
+# flutter pub run flutter_flavorizr
+flavors:
+  prod:
+    app:
+      name: "Nudge"
+    android:
+      applicationId: "com.nudge.nudge"
+    ios:
+      bundleId: "com.nudge.nudge"
+
+  di:
+    app:
+      name: "Nudge DI"
+    android:
+      applicationId: "com.nudge.nudge.di"
+    ios:
+      bundleId: "com.nudge.nudge.di.au"
+
+  api:
+    app:
+      name: "Nudge API"
+    android:
+      applicationId: "com.nudge.nudge.api"
+    ios:
+      bundleId: "com.nudge.nudge.api"

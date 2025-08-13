@@ -1,0 +1,13 @@
+flutter_native_splash:
+  fullscreen: true                   # Enables fullscreen splash
+
+  image: assets/images/final_logo.png           # A full-screen image (acts as background, no separate icon)
+  color: "#ffffff"                   # Background color in case the image has transparency
+
+  android_12:
+    color: "#FFFFFF"
+    # image: assets/images/logo_final.png
+    image: assets/images/dnaicon.png
+    icon_background_color: "#7641C3"
+
+  web: false

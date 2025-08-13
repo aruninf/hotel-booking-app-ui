@@ -1,0 +1,6 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
+#include "Generated.xcconfig"
+
+ASSET_PREFIX=api
+BUNDLE_NAME=Nudge API
+BUNDLE_DISPLAY_NAME=Nudge API
