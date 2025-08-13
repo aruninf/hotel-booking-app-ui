@@ -19,10 +19,10 @@ This app focuses purely on **UI/UX design** and does not include backend integra
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/screen1.png" width="22%" />
-  <img src="screenshots/screen2.png" width="22%" />
-  <img src="screenshots/screen3.png" width="22%" />
-  <img src="screenshots/screen4.png" width="22%" />
+  <img src="1.png" width="22%" />
+  <img src="2.png" width="22%" />
+  <img src="3.png" width="22%" />
+  <img src="4.png" width="22%" />
 </p>
 
 ---
